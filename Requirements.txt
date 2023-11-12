@@ -1,0 +1,14 @@
+Hardware & software requirements 
+
+1. Software Requirements 
+
+Arduino Software 
+
+2. Hardware Requiremnts 
+
+Arduino Nano 
+pcs - 4.7k resistor for I2C pull-up
+MAX30100 sENSOR 
+OLED Display SSD1306 based 128 x 32 Resolution 
+5V adequate power upply unit with the rataed current of atleast 300mA
+Laptop with minimum 4GB RAM.
